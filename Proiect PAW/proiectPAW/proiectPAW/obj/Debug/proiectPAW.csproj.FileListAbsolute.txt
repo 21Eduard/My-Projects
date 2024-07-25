@@ -1,0 +1,17 @@
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe.config
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.pdb
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.AssemblyReference.cache
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form1.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form2.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Properties.Resources.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.GenerateResource.cache
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.CoreCompileInputs.cache
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.exe
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.pdb
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form3.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form4.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form5.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form6.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form7.resources
+C:\Pentru facultate\Anul 2\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Form8.resources
