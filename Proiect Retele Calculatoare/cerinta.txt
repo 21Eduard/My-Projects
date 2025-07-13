@@ -1,0 +1,7 @@
+Sincronizarea proceselor la distanta:
+Server-ul asigura sincronizarea unor procese care se executa in aplicatiile clent prin intermediul unor semafoare;
+Clientii se conecteaza la server si mentin conexiunea deschisa pe durata executiei procesului client;
+Un client poate solicita obtinerea accesului exclusiv pe un semafor identificat printr-un nume unic la nivelul server-ului;
+In cazul in care niciun alt client nu are aces exclusiv pe acel semafor, server-ul ii acorda clientului acesul, retinand ce client acceseaza semaforul respectiv;
+In cazul in care un client detine deja accesul la semaforul respectiv, server-ul va refuza clientului accesul exclusiv, adaugandu-l intr-o lista a clientilor care asteapta dupa eliberarea acelui semafor;
+Cand clientul care detine accesul exclusiv la un semafor il elibereaza, server-ul va da accesul exclusiv urmatorului client care asteapta, daca exista, notificandu-l in acest sens.
